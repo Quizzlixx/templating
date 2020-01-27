@@ -1,2 +1,2 @@
 # templating
-IT328 Templating example
+IT328 demonstrating F3 templating in-class
